@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Astapchuk_RGZ.Models
 {
-    public class AddDataResult
+    public class DataResult
     {
         public int Id { get; set; }
         public string Value { get; set; }
