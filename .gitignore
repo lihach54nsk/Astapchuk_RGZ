@@ -277,7 +277,7 @@ ServiceFabricBackup/
 
 # Microsoft Fakes
 FakesAssemblies/
-/docker-compose/postgresql
+/docker-compose/postgresql/
 
 # GhostDoc plugin setting file
 *.GhostDoc.xml
